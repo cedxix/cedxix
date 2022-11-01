@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cedric D. Anidie
+- 👋 Hi, I’m Cedric D. A.
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Elixir
 - 💞️ I’m looking to collaborate on projects

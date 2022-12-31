@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cedric D. A.
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Elixir
+- 🌱 I’m currently learning Elixir, Ruby on Rails, SvelteKit
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @cedx_ on twitter
 
